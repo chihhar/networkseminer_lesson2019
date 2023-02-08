@@ -1,0 +1,104 @@
+[01]
+==================================
+Dst. MAC Addr.: 52:54:00:12:35:02
+Src. MAC Addr.: 08:00:27:3e:1c:9e
+Type: IPv4
+------------------------------------
+Version: 4
+IHL: 5
+ToS: 0
+Total Length: 84
+Identification: 54266
+Frags: 0
+Fragment Offset: 0
+TTL: 40
+Protocol: ICMP
+Checksum: 7478
+Src. IP Addr.: 10.0.2.15
+Dst. IP Addr.: 133.42.248.63
+------------------------------------
+Type Echo
+Code: 0
+Checksum: 40271
+Identifier 55841
+Sequence Number: 0
+=======================================
+===================================
+[02]
+==================================
+Dst. MAC Addr.: 08:00:27:3e:1c:9e
+Src. MAC Addr.: 52:54:00:12:35:02
+Type: IPv4
+------------------------------------
+Version: 4
+IHL: 5
+ToS: 0
+Total Length: 84
+Identification: 303
+Frags: 0
+Fragment Offset: 0
+TTL: 3d
+Protocol: ICMP
+Checksum: 62209
+Src. IP Addr.: 133.42.248.63
+Dst. IP Addr.: 10.0.2.15
+------------------------------------
+Type Echo Reply
+Code: 0
+Checksum: 42319
+Identifier 55841
+Sequence Number: 0
+=======================================
+===================================
+[03]
+==================================
+Dst. MAC Addr.: 52:54:00:12:35:02
+Src. MAC Addr.: 08:00:27:3e:1c:9e
+Type: IPv4
+------------------------------------
+Version: 4
+IHL: 5
+ToS: 0
+Total Length: 84
+Identification: 54267
+Frags: 0
+Fragment Offset: 0
+TTL: 40
+Protocol: ICMP
+Checksum: 7477
+Src. IP Addr.: 10.0.2.15
+Dst. IP Addr.: 133.42.248.63
+------------------------------------
+Type Echo
+Code: 0
+Checksum: 8115
+Identifier 55841
+Sequence Number: 1
+=======================================
+===================================
+[04]
+==================================
+Dst. MAC Addr.: 08:00:27:3e:1c:9e
+Src. MAC Addr.: 52:54:00:12:35:02
+Type: IPv4
+------------------------------------
+Version: 4
+IHL: 5
+ToS: 0
+Total Length: 84
+Identification: 304
+Frags: 0
+Fragment Offset: 0
+TTL: 3d
+Protocol: ICMP
+Checksum: 62208
+Src. IP Addr.: 133.42.248.63
+Dst. IP Addr.: 10.0.2.15
+------------------------------------
+Type Echo Reply
+Code: 0
+Checksum: 10163
+Identifier 55841
+Sequence Number: 1
+=======================================
+===================================

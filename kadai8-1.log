@@ -1,0 +1,638 @@
+[01]
+==================================
+Dst. MAC Addr.: 52:54:00:12:35:02
+Src. MAC Addr.: 08:00:27:3e:1c:9e
+Type: IPv4
+------------------------------------
+Version: 4
+IHL: 5
+ToS: 0
+Total Length: 66
+Identification: 54173
+Frags: 0
+Fragment Offset: 0
+TTL: 40
+Protocol: UDP
+Checksum: 60380
+Src. IP Addr.: 10.0.2.15
+Dst. IP Addr.: 208.67.222.222
+------------------------------------
+Source Port: 63774
+Destination Port: 53
+Length: 46
+Checksum: 47984
+------------------------------------
+ a6 3c 01 00 00 01 00 00 00 00 00 00 03 77 77 77
+ . < . . . . . . . . . . . w w w
+===================================
+[02]
+==================================
+Dst. MAC Addr.: 08:00:27:3e:1c:9e
+Src. MAC Addr.: 52:54:00:12:35:02
+Type: IPv4
+------------------------------------
+Version: 4
+IHL: 5
+ToS: 0
+Total Length: 107
+Identification: 757
+Frags: 0
+Fragment Offset: 0
+TTL: 40
+Protocol: UDP
+Checksum: 48220
+Src. IP Addr.: 208.67.222.222
+Dst. IP Addr.: 10.0.2.15
+------------------------------------
+Source Port: 53
+Destination Port: 63774
+Length: 87
+Checksum: 46919
+------------------------------------
+ a6 3c 81 80 00 01 00 02 00 00 00 00 03 77 77 77
+ . < . . . . . . . . . . . w w w
+===================================
+[03]
+==================================
+Dst. MAC Addr.: 52:54:00:12:35:02
+Src. MAC Addr.: 08:00:27:3e:1c:9e
+Type: IPv4
+------------------------------------
+Version: 4
+IHL: 5
+ToS: 0
+Total Length: 66
+Identification: 54174
+Frags: 0
+Fragment Offset: 0
+TTL: 40
+Protocol: UDP
+Checksum: 60379
+Src. IP Addr.: 10.0.2.15
+Dst. IP Addr.: 208.67.222.222
+------------------------------------
+Source Port: 29144
+Destination Port: 53
+Length: 46
+Checksum: 47984
+------------------------------------
+ c9 c5 01 00 00 01 00 00 00 00 00 00 03 77 77 77
+ . . . . . . . . . . . . . w w w
+===================================
+[04]
+==================================
+Dst. MAC Addr.: 08:00:27:3e:1c:9e
+Src. MAC Addr.: 52:54:00:12:35:02
+Type: IPv4
+------------------------------------
+Version: 4
+IHL: 5
+ToS: 0
+Total Length: 141
+Identification: 758
+Frags: 0
+Fragment Offset: 0
+TTL: 40
+Protocol: UDP
+Checksum: 48185
+Src. IP Addr.: 208.67.222.222
+Dst. IP Addr.: 10.0.2.15
+------------------------------------
+Source Port: 53
+Destination Port: 29144
+Length: 121
+Checksum: 12837
+------------------------------------
+ c9 c5 81 80 00 01 00 01 00 01 00 00 03 77 77 77
+ . . . . . . . . . . . . . w w w
+===================================
+[05]
+==================================
+Dst. MAC Addr.: 52:54:00:12:35:02
+Src. MAC Addr.: 08:00:27:3e:1c:9e
+Type: IPv4
+------------------------------------
+Version: 4
+IHL: 5
+ToS: 0
+Total Length: 60
+Identification: 0
+Frags: 2
+Fragment Offset: 0
+TTL: 40
+Protocol: TCP
+Checksum: 30059
+Src. IP Addr.: 10.0.2.15
+Dst. IP Addr.: 133.42.52.24
+------------------------------------
+Source Port: 34572
+Destination Port: 80
+Sequence Number: ae58b2e6
+Acknowledgement Number: 0
+Data Offset: 10
+Control Bit: SYN
+Window: 65535
+Checksum: 50559
+Urgent pointer: 0
+------------------------------------
+Data:
+
+
+===================================
+[06]
+==================================
+Dst. MAC Addr.: 08:00:27:3e:1c:9e
+Src. MAC Addr.: 52:54:00:12:35:02
+Type: IPv4
+------------------------------------
+Version: 4
+IHL: 5
+ToS: 0
+Total Length: 44
+Identification: 759
+Frags: 0
+Fragment Offset: 0
+TTL: 40
+Protocol: TCP
+Checksum: 45700
+Src. IP Addr.: 133.42.52.24
+Dst. IP Addr.: 10.0.2.15
+------------------------------------
+Source Port: 80
+Destination Port: 34572
+Sequence Number: 50c1d401
+Acknowledgement Number: ae58b2e7
+Data Offset: 6
+Control Bit: ACK,SYN
+Window: 65535
+Checksum: 50533
+Urgent pointer: 0
+------------------------------------
+Data:
+
+
+===================================
+[07]
+==================================
+Dst. MAC Addr.: 52:54:00:12:35:02
+Src. MAC Addr.: 08:00:27:3e:1c:9e
+Type: IPv4
+------------------------------------
+Version: 4
+IHL: 5
+ToS: 0
+Total Length: 40
+Identification: 0
+Frags: 2
+Fragment Offset: 0
+TTL: 40
+Protocol: TCP
+Checksum: 30079
+Src. IP Addr.: 10.0.2.15
+Dst. IP Addr.: 133.42.52.24
+------------------------------------
+Source Port: 34572
+Destination Port: 80
+Sequence Number: ae58b2e7
+Acknowledgement Number: 50c1d402
+Data Offset: 5
+Control Bit: ACK
+Window: 65535
+Checksum: 50539
+Urgent pointer: 0
+------------------------------------
+Data:
+
+
+===================================
+[08]
+==================================
+Dst. MAC Addr.: 52:54:00:12:35:02
+Src. MAC Addr.: 08:00:27:3e:1c:9e
+Type: IPv4
+------------------------------------
+Version: 4
+IHL: 5
+ToS: 0
+Total Length: 314
+Identification: 0
+Frags: 2
+Fragment Offset: 0
+TTL: 40
+Protocol: TCP
+Checksum: 29805
+Src. IP Addr.: 10.0.2.15
+Dst. IP Addr.: 133.42.52.24
+------------------------------------
+Source Port: 34572
+Destination Port: 80
+Sequence Number: ae58b2e7
+Acknowledgement Number: 50c1d402
+Data Offset: 5
+Control Bit: ACK,PSH
+Window: 65535
+Checksum: 50813
+Urgent pointer: 0
+------------------------------------
+Data:
+ 47 45 54 20 2f 20 48 54 54 50 2f 31 2e 30 0d 0a
+ G E T   /   H T T P / 1 . 0 . .
+===================================
+[09]
+==================================
+Dst. MAC Addr.: 08:00:27:3e:1c:9e
+Src. MAC Addr.: 52:54:00:12:35:02
+Type: IPv4
+------------------------------------
+Version: 4
+IHL: 5
+ToS: 0
+Total Length: 40
+Identification: 760
+Frags: 0
+Fragment Offset: 0
+TTL: 40
+Protocol: TCP
+Checksum: 45703
+Src. IP Addr.: 133.42.52.24
+Dst. IP Addr.: 10.0.2.15
+------------------------------------
+Source Port: 80
+Destination Port: 34572
+Sequence Number: 50c1d402
+Acknowledgement Number: ae58b3f9
+Data Offset: 5
+Control Bit: ACK
+Window: 65535
+Checksum: 56336
+Urgent pointer: 0
+------------------------------------
+Data:
+
+
+===================================
+[10]
+==================================
+Dst. MAC Addr.: 08:00:27:3e:1c:9e
+Src. MAC Addr.: 52:54:00:12:35:02
+Type: IPv4
+------------------------------------
+Version: 4
+IHL: 5
+ToS: 0
+Total Length: 1460
+Identification: 761
+Frags: 0
+Fragment Offset: 0
+TTL: 40
+Protocol: TCP
+Checksum: 44282
+Src. IP Addr.: 133.42.52.24
+Dst. IP Addr.: 10.0.2.15
+------------------------------------
+Source Port: 80
+Destination Port: 34572
+Sequence Number: 50c1d402
+Acknowledgement Number: ae58b3f9
+Data Offset: 5
+Control Bit: ACK
+Window: 65535
+Checksum: 16730
+Urgent pointer: 0
+------------------------------------
+Data:
+ 48 54 54 50 2f 31 2e 31 20 32 30 30 20 4f 4b 0d
+ H T T P / 1 . 1   2 0 0   O K .
+===================================
+[11]
+==================================
+Dst. MAC Addr.: 08:00:27:3e:1c:9e
+Src. MAC Addr.: 52:54:00:12:35:02
+Type: IPv4
+------------------------------------
+Version: 4
+IHL: 5
+ToS: 0
+Total Length: 1460
+Identification: 762
+Frags: 0
+Fragment Offset: 0
+TTL: 40
+Protocol: TCP
+Checksum: 44281
+Src. IP Addr.: 133.42.52.24
+Dst. IP Addr.: 10.0.2.15
+------------------------------------
+Source Port: 80
+Destination Port: 34572
+Sequence Number: 50c1d98e
+Acknowledgement Number: ae58b3f9
+Data Offset: 5
+Control Bit: ACK
+Window: 65535
+Checksum: 31630
+Urgent pointer: 0
+------------------------------------
+Data:
+ 6d 61 2d 75 2f 63 73 73 2f 6d 6f 64 75 6c 65 2e
+ m a - u / c s s / m o d u l e .
+===================================
+[12]
+==================================
+Dst. MAC Addr.: 52:54:00:12:35:02
+Src. MAC Addr.: 08:00:27:3e:1c:9e
+Type: IPv4
+------------------------------------
+Version: 4
+IHL: 5
+ToS: 0
+Total Length: 40
+Identification: 0
+Frags: 2
+Fragment Offset: 0
+TTL: 40
+Protocol: TCP
+Checksum: 30079
+Src. IP Addr.: 10.0.2.15
+Dst. IP Addr.: 133.42.52.24
+------------------------------------
+Source Port: 34572
+Destination Port: 80
+Sequence Number: ae58b3f9
+Acknowledgement Number: 50c1df1a
+Data Offset: 5
+Control Bit: ACK
+Window: 62860
+Checksum: 50539
+Urgent pointer: 0
+------------------------------------
+Data:
+
+
+===================================
+[13]
+==================================
+Dst. MAC Addr.: 08:00:27:3e:1c:9e
+Src. MAC Addr.: 52:54:00:12:35:02
+Type: IPv4
+------------------------------------
+Version: 4
+IHL: 5
+ToS: 0
+Total Length: 1460
+Identification: 763
+Frags: 0
+Fragment Offset: 0
+TTL: 40
+Protocol: TCP
+Checksum: 44280
+Src. IP Addr.: 133.42.52.24
+Dst. IP Addr.: 10.0.2.15
+------------------------------------
+Source Port: 80
+Destination Port: 34572
+Sequence Number: 50c1df1a
+Acknowledgement Number: ae58b3f9
+Data Offset: 5
+Control Bit: ACK
+Window: 65535
+Checksum: 33997
+Urgent pointer: 0
+------------------------------------
+Data:
+ 09 09 09 76 61 72 20 63 78 20 3d 20 27 30 31 32
+ . . . v a r   c x   =   ' 0 1 2
+===================================
+[14]
+==================================
+Dst. MAC Addr.: 08:00:27:3e:1c:9e
+Src. MAC Addr.: 52:54:00:12:35:02
+Type: IPv4
+------------------------------------
+Version: 4
+IHL: 5
+ToS: 0
+Total Length: 1460
+Identification: 764
+Frags: 0
+Fragment Offset: 0
+TTL: 40
+Protocol: TCP
+Checksum: 44279
+Src. IP Addr.: 133.42.52.24
+Dst. IP Addr.: 10.0.2.15
+------------------------------------
+Source Port: 80
+Destination Port: 34572
+Sequence Number: 50c1e4a6
+Acknowledgement Number: ae58b3f9
+Data Offset: 5
+Control Bit: ACK
+Window: 65535
+Checksum: 2546
+Urgent pointer: 0
+------------------------------------
+Data:
+ 6c 65 3d 22 6e 61 76 69 67 61 74 69 6f 6e 22 3e
+ l e = " n a v i g a t i o n " >
+===================================
+[15]
+==================================
+Dst. MAC Addr.: 52:54:00:12:35:02
+Src. MAC Addr.: 08:00:27:3e:1c:9e
+Type: IPv4
+------------------------------------
+Version: 4
+IHL: 5
+ToS: 0
+Total Length: 40
+Identification: 0
+Frags: 2
+Fragment Offset: 0
+TTL: 40
+Protocol: TCP
+Checksum: 30079
+Src. IP Addr.: 10.0.2.15
+Dst. IP Addr.: 133.42.52.24
+------------------------------------
+Source Port: 34572
+Destination Port: 80
+Sequence Number: ae58b3f9
+Acknowledgement Number: 50c1ea32
+Data Offset: 5
+Control Bit: ACK
+Window: 61555
+Checksum: 50539
+Urgent pointer: 0
+------------------------------------
+Data:
+
+
+===================================
+[16]
+==================================
+Dst. MAC Addr.: 08:00:27:3e:1c:9e
+Src. MAC Addr.: 52:54:00:12:35:02
+Type: IPv4
+------------------------------------
+Version: 4
+IHL: 5
+ToS: 0
+Total Length: 1460
+Identification: 765
+Frags: 0
+Fragment Offset: 0
+TTL: 40
+Protocol: TCP
+Checksum: 44278
+Src. IP Addr.: 133.42.52.24
+Dst. IP Addr.: 10.0.2.15
+------------------------------------
+Source Port: 80
+Destination Port: 34572
+Sequence Number: 50c1ea32
+Acknowledgement Number: ae58b3f9
+Data Offset: 5
+Control Bit: ACK
+Window: 65535
+Checksum: 5741
+Urgent pointer: 0
+------------------------------------
+Data:
+ 22 3e 0d 0a 20 20 20 20 20 20 20 20 3c 64 69 76
+ " > . .                 < d i v
+===================================
+[17]
+==================================
+Dst. MAC Addr.: 08:00:27:3e:1c:9e
+Src. MAC Addr.: 52:54:00:12:35:02
+Type: IPv4
+------------------------------------
+Version: 4
+IHL: 5
+ToS: 0
+Total Length: 1460
+Identification: 766
+Frags: 0
+Fragment Offset: 0
+TTL: 40
+Protocol: TCP
+Checksum: 44277
+Src. IP Addr.: 133.42.52.24
+Dst. IP Addr.: 10.0.2.15
+------------------------------------
+Source Port: 80
+Destination Port: 34572
+Sequence Number: 50c1efbe
+Acknowledgement Number: ae58b3f9
+Data Offset: 5
+Control Bit: ACK
+Window: 65535
+Checksum: 58335
+Urgent pointer: 0
+------------------------------------
+Data:
+ 61 2d 75 2e 61 63 2e 6a 70 2f 76 74 6f 75 72 2f
+ a - u . a c . j p / v t o u r /
+===================================
+[18]
+==================================
+Dst. MAC Addr.: 52:54:00:12:35:02
+Src. MAC Addr.: 08:00:27:3e:1c:9e
+Type: IPv4
+------------------------------------
+Version: 4
+IHL: 5
+ToS: 0
+Total Length: 40
+Identification: 0
+Frags: 2
+Fragment Offset: 0
+TTL: 40
+Protocol: TCP
+Checksum: 30079
+Src. IP Addr.: 10.0.2.15
+Dst. IP Addr.: 133.42.52.24
+------------------------------------
+Source Port: 34572
+Destination Port: 80
+Sequence Number: ae58b3f9
+Acknowledgement Number: 50c1f54a
+Data Offset: 5
+Control Bit: ACK
+Window: 58715
+Checksum: 50539
+Urgent pointer: 0
+------------------------------------
+Data:
+
+
+===================================
+[19]
+==================================
+Dst. MAC Addr.: 08:00:27:3e:1c:9e
+Src. MAC Addr.: 52:54:00:12:35:02
+Type: IPv4
+------------------------------------
+Version: 4
+IHL: 5
+ToS: 0
+Total Length: 1460
+Identification: 767
+Frags: 0
+Fragment Offset: 0
+TTL: 40
+Protocol: TCP
+Checksum: 44276
+Src. IP Addr.: 133.42.52.24
+Dst. IP Addr.: 10.0.2.15
+------------------------------------
+Source Port: 80
+Destination Port: 34572
+Sequence Number: 50c1f54a
+Acknowledgement Number: ae58b3f9
+Data Offset: 5
+Control Bit: ACK
+Window: 65535
+Checksum: 7352
+Urgent pointer: 0
+------------------------------------
+Data:
+ 75 2f 74 6d 70 6c 2d 69 6d 67 2f 69 63 6f 5f 6c
+ u / t m p l - i m g / i c o _ l
+===================================
+[20]
+==================================
+Dst. MAC Addr.: 08:00:27:3e:1c:9e
+Src. MAC Addr.: 52:54:00:12:35:02
+Type: IPv4
+------------------------------------
+Version: 4
+IHL: 5
+ToS: 0
+Total Length: 1460
+Identification: 768
+Frags: 0
+Fragment Offset: 0
+TTL: 40
+Protocol: TCP
+Checksum: 44275
+Src. IP Addr.: 133.42.52.24
+Dst. IP Addr.: 10.0.2.15
+------------------------------------
+Source Port: 80
+Destination Port: 34572
+Sequence Number: 50c1fad6
+Acknowledgement Number: ae58b3f9
+Data Offset: 5
+Control Bit: ACK
+Window: 65535
+Checksum: 48629
+Urgent pointer: 0
+------------------------------------
+Data:
+ 66 66 65 72 69 6e 67 22 20 6f 6e 6b 65 79 70 72
+ f f e r i n g "   o n k e y p r
+===================================
+
+20 packets have been captured.

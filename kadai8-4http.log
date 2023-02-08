@@ -1,0 +1,1256 @@
+10.0.2.15:11574 -> 133.42.52.24:80 S
+133.42.52.24:80 -> 10.0.2.15:11574 AS
+10.0.2.15:11574 -> 133.42.52.24:80 A
+10.0.2.15:11574 -> 133.42.52.24:80 AP
+ G E T   /   H T T P / 1 . 0
+ H o s t :   w w w . w a k a y a m a - u . a c . j p
+ A c c e p t :   t e x t / h t m l ,   t e x t / p l a i n ,   t e x t / s g m l ,   t e x t / c s s ,   a p p l i c a t i o n / x h t m l + x m l ,   * / * ; q = 0 . 0 1
+ A c c e p t - E n c o d i n g :   g z i p ,   c o m p r e s s ,   b z i p 2
+ A c c e p t - L a n g u a g e :   e n
+ U s e r - A g e n t :   L y n x / 2 . 8 . 9 r e l . 1   l i b w w w - F M / 2 . 1 4   S S L - M M / 1 . 4 . 1   O p e n S S L / 1 . 1 . 1 a - f r e e b s d
+
+133.42.52.24:80 -> 10.0.2.15:11574 A
+133.42.52.24:80 -> 10.0.2.15:11574 A
+ H T T P / 1 . 1   2 0 0   O K
+ D a t e :   W e d ,   2 2   J a n   2 0 2 0   0 1 : 3 7 : 4 4   G M T
+ S e r v e r :   A p a c h e
+ L a s t - M o d i f i e d :   T u e ,   2 1   J a n   2 0 2 0   0 8 : 2 5 : 3 4   G M T
+ E T a g :   " a 1 c 5 - 5 9 c a 2 2 6 d a 2 1 5 e "
+ A c c e p t - R a n g e s :   b y t e s
+ C o n t e n t - L e n g t h :   4 1 4 1 3
+ C o n n e c t i o n :   c l o s e
+ C o n t e n t - T y p e :   t e x t / h t m l ;   c h a r s e t = U T F - 8
+ < ! D O C T Y P E   h t m l >
+ < h t m l   l a n g = " j a " >
+ < h e a d >
+ < m e t a   c h a r s e t = " U T F - 8 "   / >
+ < m e t a   h t t p - e q u i v = " X - U A - C o m p a t i b l e "   c o n t e n t = " I E = e d g e "   / >
+ < t i t l e >
+ < / t i t l e >
+ < l i n k   h r e f = " / _ l a y o u t s / 0 0 0 0 2 3 2 5 / s t y l e . c s s "   m e d i a = " a l l "   r e l = " s t y l e s h e e t "   t y p e = " t e x t / c s s "   / >
+ < m e t a   h t t p - e q u i v = " X - U A - C o m p a t i b l e "   c o n t e n t = " I E = e d g e , c h r o m e = 1 " >
+ < m e t a   n a m e = " v i e w p o r t "   c o n t e n t = " w i d t h = d e v i c e - w i d t h ,   i n i t i a l - s c a l e = 1 " >
+ < m e t a   p r o p e r t y = " o g : i m a g e "   c o n t e n t = " / _ c o m m o n / t h e m e s / w a k a y a m a - u / t m p l - i m g / i m g _ o g p 0 1 . p n g "   / >
+ < m e t a   n a m e = " k e y w o r d s "   c o n t e n t = "
+ ,
+ , W a k a y a m a , U n i v e r s i t y ,
+ ,
+ ,
+ ,
+ "   / >
+ < m e t a   n a m e = " d e s c r i p t i o n "   c o n t e n t = "
+ "   / >
+ < l i n k   r e l = " s t y l e s h e e t "   t y p e = " t e x t / c s s "   h r e f = " / _ c o m m o n / t h e m e s / t e m p l a t e / j s / b x s l i d e r / j q u e r y . b x s l i d e r . c s s "   m e d i a = " a l l " >
+ < l i n k   r e l = " s t y l e s h e e t "   t y p e = " t e x t / c s s "   h r e f = " / _ c o m m o n / t h e m e s / w a k a y a m a - u / c s s / d e f a u l t . c s s "   m e d i a = " a l l " >
+ < l i n k   r e l = " s t y l e s h e e t "   t y p e = " t e x t / c s s "   h r e f = " / _ c o m m o n / t h e m e s / w a k a y a m a - u / c s s / b a s e . c s s "   m e d i a = " a l l " >
+ < l i n k   r e l = " s t y l e s h e e t "   t y p e = " t e x t / c s s "   h r e f = " / _ c o m m o n / t h e m e s / w a k a y a m a - u / c s s / p a g e . c s s "   m e d i a = " a l l " >
+ < l i n k   r e l = " s t y l e s h e e t "   t y p e = " t e x t / c s s "   h r e f = " / _ c o m m o n / t h e m e s / w a k a y a
+133.42.52.24:80 -> 10.0.2.15:11574 AP
+ m a - u / c s s / m o d u l e . c s s "   m e d i a = " a l l " >
+ < ! - - [ i f   I E   8 . 0 ] >
+ < l i n k   r e l = " s t y l e s h e e t "   t y p e = " t e x t / c s s "   h r e f = " / _ c o m m o n / t h e m e s / w a k a y a m a - u / c s s / i e 8 . c s s "   m e d i a = " a l l " >
+ < ! [ e n d i f ] - - >
+ < ! - - [ i f   l t   I E   9 ] >
+ < s c r i p t   s r c = " / _ c o m m o n / t h e m e s / w a k a y a m a - u / j s / h t m l 5 s h i v . j s " > < / s c r i p t >
+ < s c r i p t   s r c = " / _ c o m m o n / t h e m e s / w a k a y a m a - u / j s / r e s p o n d . m i n . j s " > < / s c r i p t >
+ < ! [ e n d i f ] - - > < / h e a d >
+ < b o d y   i d = " p a g e - i n d e x "   c l a s s = " r o o t d i r " >
+ < ! - -   s k i p . r e a d i n g   - - >
+ < ! - -  
+   - - >
+ < d i v   i d = " s m p T a r g e t N a v i " >
+ < h 3 >
+ < / h 3 >
+ < n a v   r o l e = " n a v i g a t i o n " >
+ < u l   c l a s s = " c f " >
+ < l i   c l a s s = " t N a v i 0 1 " > < a   h r e f = " / t a r g e t / a p p l i c a n t s . h t m l " > < s p a n >
+ < / s p a n > < / a > < / l i >
+ < l i   c l a s s = " t N a v i 0 2 " > < a   h r e f = " / t a r g e t / s t u d e n t s - a n d - p a r e n t s . h t m l " > < s p a n >
+ < / s p a n > < / a > < / l i >
+ < l i   c l a s s = " t N a v i 0 3 " > < a   h r e f = " / t a r g e t / a l u m n i . h t m l " > < s p a n >
+ < / s p a n > < / a > < / l i >
+ < l i   c l a s s = " t N a v i 0 4 " > < a   h r e f = " / t a r g e t / p a r t n e r s h i p s . h t m l " > < s p a n >
+ < / s p a n > < / a > < / l i >
+ < l i   c l a s s = " t N a v i 0 5 " > < a   h r e f = " / t a r g e t / r e g i o n . h t m l " > < s p a n >
+ < / s p a n > < / a > < / l i >
+ < / u l >
+ < / n a v >
+ < / d i v > < ! - -   /   s m p T a r g e t N a v i   - - >
+ < ! - -   / s
+10.0.2.15:11574 -> 133.42.52.24:80 A
+133.42.52.24:80 -> 10.0.2.15:11574 A
+ k i p . r e a d i n g   - - >
+ < d i v   i d = " p a g e "   c l a s s = " s m p N a v i P u s h " >
+ < h e a d e r   i d = " g l o b a l H e a d e r "   r o l e = " b a n n e r " >
+ < d i v   c l a s s = " i n n e r " >
+ < d i v   c l a s s = " s u b H e a d e r   c f " >
+ < d i v   i d = " h e a d e r S e a r c h "   c l a s s = " c f " >
+ < s c r i p t >
+     ( f u n c t i o n ( )   {
+ v a r   c x   =   ' 0 1 2 9 8 6 8 1 7 2 0 0 5 9 4 0 5 6 2 4 1 : g p f b q c n p l o c ' ;
+ v a r   g c s e   =   d o c u m e n t . c r e a t e E l e m e n t ( ' s c r i p t ' ) ;
+ g c s e . t y p e   =   ' t e x t / j a v a s c r i p t ' ;
+ g c s e . a s y n c   =   t r u e ;
+ g c s e . s r c   =   ( d o c u m e n t . l o c a t i o n . p r o t o c o l   = =   ' h t t p s : '   ?   ' h t t p s : '   :   ' h t t p : ' )   +
+ ' / / c s e . g o o g l e . c o m / c s e . j s ? c x = '   +   c x ;
+ v a r   s   =   d o c u m e n t . g e t E l e m e n t s B y T a g N a m e ( ' s c r i p t ' ) [ 0 ] ;
+ s . p a r e n t N o d e . i n s e r t B e f o r e ( g c s e ,   s ) ;
+     } ) ( ) ;
+ < / s c r i p t >
+ < g c s e : s e a r c h b o x - o n l y > < / g c s e : s e a r c h b o x - o n l y >
+ < / d i v > < ! - -   /   h e a d e r S e a r c h   - - >
+ < ! - -   s k i p . r e a d i n g   - - >
+ < d i v   i d = " h e a d e r F o n t "   c l a s s = " c f " >
+ < p >
+ < / p >
+ < u l >
+ < l i > < a   h r e f = " # " >
+ < / a > < / l i >
+ < l i > < a   h r e f = " # " >
+ < / a > < / l i >
+ < l i > < a   h r e f = " # " >
+ < / a > < / l i >
+ < / u l >
+ < / d i v > < ! - -   /   h e a d e r F o n t   - - >
+ < d i v   i d = " h e a d e r L a n g "   c l a s s = " c f " >
+ < u l >
+ < l i   c l a s s = " c u r r e n t " >
+ < / l i >
+ < l i > < a   h r e f = " h t t p : / / w w w . w a k a y a m a - u . a c . j p / e n / "   t a r g e t = " _ b l a n k " > E n g l i s h < / a > < / l i >
+ < / u l >
+ < / d i v > < ! - -   /   h e a d e r L a n g   - - >
+                                                 < ! - -   s k i p . r e a d i n g   - - >
+ < / d i v > < ! - -   /   s u b H e a d e r   - - >
+ < p   i d = " s i t e I D " > < a   h r e f = " / " > < i m g   s r c = " / _ c o m m o n / t h e m e s / w a k a y a m a - u / t m p l - i m g / l o g o . p n g "   a l t = "
+  
+ " > < / a > < /
+133.42.52.24:80 -> 10.0.2.15:11574 AP
+ p >
+ < ! - -   s k i p . r e a d i n g   - - >
+ < d i v   i d = " b t n T a r g e t N a v i " > < a   h r e f = " # " > < i m g   s r c = " / _ c o m m o n / t h e m e s / w a k a y a m a - u / t m p l - i m g / b t n _ t a r g e t _ n a v i 0 1 . p n g "   a l t = "
+ " > < / a > < / d i v >
+ < ! - -   / s k i p . r e a d i n g   - - >
+ < d i v   c l a s s = " h e a d e r N a v i " >
+ < n a v   r o l e = " n a v i g a t i o n " >
+ < u l   c l a s s = " c f " >
+ < l i   c l a s s = " h N a v i 0 1 " > < a   h r e f = " / " > < s p a n >
+ < / s p a n > < / a > < / l i >
+ < l i   c l a s s = " h N a v i 0 2 " > < a   h r e f = " / a b o u t / a c c e s s . h t m l " > < s p a n >
+ < / s p a n > < / a > < / l i >
+ < l i   c l a s s = " h N a v i 0 3 " > < a   h r e f = " / a b o u t / c - m a p . h t m l " > < s p a n >
+ < / s p a n > < / a > < / l i >
+ < l i   c l a s s = " h N a v i 0 4 " > < a   h r e f = " / s i t e m a p . h t m l " > < s p a n >
+ < / s p a n > < / a > < / l i >
+ < l i   c l a s s = " h N a v i 0 5 " > < a   h r e f = " / c o n t a c t / " > < s p a n >
+ < / s p a n > < / a > < / l i >
+ < / u l >
+ < / n a v >
+ < / d i v > < ! - -   /   h e a d e r N a v i   - - >
+ < / d i v > < ! - -   /   i n n e r   - - >
+ < / h e a d e r > < ! - -   /   g l o b a l H e a d e r   - - >
+ < d i v   i d = " g N a v i " >
+ < d i v   c l a s s = " i n n e r " >
+ < n a v   r o l e = " n a v i g a t i o n " >
+ < u l   c l a s s = " c f " >
+ < l i   c l a s s = " g N a v i 0 1 " > < a   h r e f = " / a b o u t / " > < s p a n >
+ < / s p a n > < / a > < / l i > < ! - -
+ - - > < l i   c l a s s = " g N a v i 0 2 " > < a   h r e f = " / a c a d e m i c s / " > < s p a n >
+ < b r   / >
+ < / s p a n > < / a > < / l i > < ! - -
+ - - > < l i   c l a s s = " g N a v i 0 4 " > < a   h r e
+10.0.2.15:11574 -> 133.42.52.24:80 A
+133.42.52.24:80 -> 10.0.2.15:11574 A
+ f = " / i n s t i t u t e s / i n d e x . h t m l " > < s p a n >
+ < / s p a n > < / a > < / l i > < ! - -
+ - - > < l i   c l a s s = " g N a v i 0 3 " > < a   h r e f = " / c a m p u s l i f e / i n d e x . h t m l " > < s p a n >
+ < / s p a n > < / a > < / l i > < ! - -
+ - - > < l i   c l a s s = " g N a v i 0 5 " > < a   h r e f = " / c a r e e r / i n d e x . h t m l "   t a r g e t = " _ b l a n k " > < s p a n >
+ < / s p a n > < / a > < / l i > < ! - -
+ - - > < l i   c l a s s = " g N a v i 0 6 " > < a   h r e f = " / a d m i s s i o n / " > < s p a n >
+ < / s p a n > < / a > < / l i >
+ < / u l >
+ < / n a v >
+ < / d i v > < ! - -   /   i n n e r   - - >
+ < / d i v > < ! - -   /   g N a v i   - - >
+         < d i v   i d = " m a i n V i s u a l " >
+                 < d i v   c l a s s = " i n n e r " >
+                         < u l   i d = " i n d e x S l i d e r " >
+                                 < l i > < a   h r e f = " h t t p s : / / w w w . w a k a y a m a - u . a c . j p / n e w s / 2 0 2 0 0 1 2 1 0 0 0 4 6 / "   t a r g e t = " _ b l a n k " > < i m g   s r c = " / _ f i l e s / 0 0 1 9 6 8 2 6 / 2 0 2 0 0 1 2 1 . j p g "   a l t = "
+ "   t i t l e = "
+ "   / > < / a > < / l i >
+                                 < l i > < a   h r e f = " h t t p s : / / w w w . w a k a y a m a - u . a c . j p / l i b / n e w s / 2 0 2 0 0 1 1 4 0 0 0 5 5 / "   t a r g e t = " _ b l a n k " > < i m g   s r c = " / _ f i l e s / 0 0 1 9 6 7 4 1 / 2 0 2 0 0 1 1 6 A . j p g "   a l t = " b o o k A "   t i t l e = " b o o k A "   / > < / a > < / l i >
+                                 < l i > < a   h r e f = " h t t p s : / / w w w . w a k a y a m a - u . a c . j p / l i b / n e w s / 2 0 2 0 0 1 1 4 0 0 0 5 5 / "   t a r g e t = " _ b l a n k " > < i m g   s r c = " / _ f i l e s / 0 0 1 9 6 7 5 8 / 2 0 2 0 0 1 1 6 B . j p g "   a l t = " b o o k B "   t i t l e = " b o o k B "   / > < / a > < / l i >
+ < / u l >
+                 < / d i v > < ! - -   /   i n n e r   - - >
+         < / d i v > < ! - -   /     m a i n V i s u a l   - - >
+ < d i v   i d = " t a r g e t N a v i " >
+ < d i v   c l a s s = " i n n e r " >
+ < n a v   r o l e = " n a v i g a t i o n " >
+ < u l   c l a s s = " c f " >
+ < l i   c l a s s = " t N a v i 0 1 " > < a   h r e f = " / t a r g e t / a p p l i c a n t s . h t m l " > < s p a n >
+ < / s p a n > < / a > < / l i >
+ < l i   c l a s s = " t N a v i 0 2 " > < a  
+133.42.52.24:80 -> 10.0.2.15:11574 A
+ h r e f = " / t a r g e t / s t u d e n t s - a n d - p a r e n t s . h t m l " > < s p a n >
+ < / s p a n > < / a > < / l i >
+ < l i   c l a s s = " t N a v i 0 3 " > < a   h r e f = " / t a r g e t / a l u m n i . h t m l " > < s p a n >
+ < / s p a n > < / a > < / l i >
+ < l i   c l a s s = " t N a v i 0 4 " > < a   h r e f = " / t a r g e t / p a r t n e r s h i p s . h t m l " > < s p a n >
+ < / s p a n > < / a > < / l i >
+ < l i   c l a s s = " t N a v i 0 5 " > < a   h r e f = " / t a r g e t / r e g i o n . h t m l " > < s p a n >
+ < / s p a n > < / a > < / l i >
+ < / u l >
+ < / n a v >
+ < / d i v >
+ < / d i v > < ! - -   /   t a r g e t N a v i   - - >
+ < d i v   i d = " c o n t e n t s "   c l a s s = " c o l u m n 3 " >
+ < d i v   c l a s s = " i n n e r " >
+ < d i v   i d = " m a i n "   r o l e = " m a i n " >
+ < d i v   c l a s s = " p i c k u p " >
+ < p > < a   h r e f = " h t t p s : / / w w w . w a k a y a m a - u . a c . j p / c r o w d / "   t a r g e t = " _ b l a n k " > < i m g   s r c =   " / _ f i l e s / 0 0 1 9 6 6 3 5 / c y b a t h 2 0 2 0 . p n g "   a l t = "
+ "   t i t l e = "
+ "   / > < / a > < / p >
+ < p > < a   h r e f = " h t t p s : / / w e b . w a k a y a m a - u . a c . j p / v t o u r / "   t a r g e t = " _ b l a n k " > < i m g   s r c =   " / _ f i l e s / 0 0 1 9 3 6 3 4 / v t o u r b a n n e r . p n g "   a l t = "
+ "   t i t l e = "
+ "   / > < / a > < / p >
+ < p > < a   h r e f = " h t t p s : / / y u m e n a v i . i n f o / p o r t a l . a s p x ? c l g a k o c d = 0 3 4 6 1 0 & m x o r d e r = R "   t a r g e t = " _ b l a n k " > < i m g   s r c =   " / _ f i l e s / 0 0 1 5 9 6 2 3 / y u m e n a v i . j p g "   a l t = "
+ "   t i t l e = "
+ "   / > < / a > < / p >
+ < / d i v >
+ < ! - -   /   p i c k u p   - - >
+ < d i v   i d = " i n d e x I m p o r t a n t N e w s T a b L i s t "   c l a s s = " p i e c e " >
+ < d i v   c l a s s = " p i e c e C o n t a i n e r " >
+ < d i v   c l a s s = " p i e c e H e a d e r " > < h 2 >
+ < / h 2 > < / d i v >
+ < d i v   c l a s s = " p i e c e B o d y " > < s c r i p t   t y p e = " t e x t / j a v a
+10.0.2.15:11574 -> 133.42.52.24:80 A
+133.42.52.24:80 -> 10.0.2.15:11574 A
+ s c r i p t "   s r c = " / _ c o m m o n / m o d u l e s / a r t i c l e / j s / d o c _ t a b s . j s " > < / s c r i p t >
+ < s c r i p t   t y p e = " t e x t / j a v a s c r i p t " >
+ / / < ! [ C D A T A [
+ v a r   d o c T a b s 3 2 1   =   n e w   A r t i c l e D o c T a b s ( ' i n d e x I m p o r t a n t N e w s T a b L i s t ' ) ;
+ / / ] ] >
+ < / s c r i p t >
+ < d i v   c l a s s = " t a b s " >
+     < s p a n > < a   h r e f = " j a v a s c r i p t :   T a b / a l l "   o n k e y p r e s s = " "   c l a s s = " a l l   c u r r e n t "
+         o n c l i c k = " r e t u r n   d o c T a b s 3 2 1 . s h o w ( ' a l l ' ) " >
+ < / a > < / s p a n >
+ < / d i v >
+ < d i v   c l a s s = " w r a p p e r " >
+     < d i v   c l a s s = " c o n t e n t " >
+     < / d i v >
+     < d i v   c l a s s = " l i n k s " >
+         < d i v   c l a s s = " a l l "   >
+         < / d i v >
+     < / d i v >
+ < ! - -   e n d   . w r a p p e r   - - > < / d i v >
+ < / d i v >
+ < / d i v >
+ < ! - -   e n d   . p i e c e   - - > < / d i v >
+ < s e c t i o n   i d = " n e w s "   c l a s s = " n e w s L i s t " >
+ < h e a d e r >
+ < h 1 >
+ < / h 1 >
+ < d i v   c l a s s = " m o r e " >
+ < u l >
+ < l i   c l a s s = " l i s t " > < a   h r e f = " / l a t e s t / " > < s p a n   c l a s s = " t e x t " >
+ < / s p a n > < s p a n   c l a s s = " i c o n " > < i m g   s r c = " / _ c o m m o n / t h e m e s / w a k a y a m a - u / t m p l - i m g / i c o _ l i s t 0 2 . p n g "   a l t = "
+ " > < / s p a n > < / a > < / l i >
+ < l i   c l a s s = " f e e d " > < a   h r e f = " / l a t e s t / i n d e x . r s s " > < s p a n   c l a s s = " t e x t " > R S S < / s p a n > < s p a n   c l a s s = " i c o n " > < i m g   s r c = " / _ c o m m o n / t h e m e s / w a k a y a m a - u / t m p l - i m g / i c o _ r s s 0 2 . p n g "   a l t = " R S S " > < / s p a n > < / a > < / l i >
+ < / u l >
+ < / d i v > < ! - -   /   b t n L i s t   - - >
+ < / h e a d e r >
+ < d i v   c l a s s = " t a b L i s t " >
+ < d i v   i d = " i n d e x N e w s T a b "   c l a s s = " p i e c e " >
+ < d i v   c l a s s = " p i e c e C o n t a i n e r " >
+ < d i v   c l a s s = " p i e c e B o d y " > < s c r i p t   t y p e = " t e x t / j a v a s c r i p t "   s r c = " / _ c o m m o n / m o d u l e s / a r t i c l e / j s / d o c _ t a b s . j s " > < / s c r i p t >
+ < s c r i p t   t y p e = " t e x t / j a v a s c r i p t " >
+ / / < ! [
+133.42.52.24:80 -> 10.0.2.15:11574 A
+ C D A T A [
+ v a r   d o c T a b s 2 9 1   =   n e w   A r t i c l e D o c T a b s ( ' i n d e x N e w s T a b ' ) ;
+ / / ] ] >
+ < / s c r i p t >
+ < d i v   c l a s s = " t a b s " >
+     < s p a n > < a   h r e f = " j a v a s c r i p t :   T a b / u p d a t e "   o n k e y p r e s s = " "   c l a s s = " u p d a t e   c u r r e n t "
+         o n c l i c k = " r e t u r n   d o c T a b s 2 9 1 . s h o w ( ' u p d a t e ' ) " >
+ < / a > < / s p a n >     < s p a n > < a   h r e f = " j a v a s c r i p t :   T a b / n o t i c e "   o n k e y p r e s s = " "   c l a s s = " n o t i c e "
+         o n c l i c k = " r e t u r n   d o c T a b s 2 9 1 . s h o w ( ' n o t i c e ' ) " >
+ < / a > < / s p a n >     < s p a n > < a   h r e f = " j a v a s c r i p t :   T a b / e v e n t "   o n k e y p r e s s = " "   c l a s s = " e v e n t "
+         o n c l i c k = " r e t u r n   d o c T a b s 2 9 1 . s h o w ( ' e v e n t ' ) " >
+ < / a > < / s p a n >     < s p a n > < a   h r e f = " j a v a s c r i p t :   T a b / p r e s s "   o n k e y p r e s s = " "   c l a s s = " p r e s s "
+         o n c l i c k = " r e t u r n   d o c T a b s 2 9 1 . s h o w ( ' p r e s s ' ) " >
+ < / a > < / s p a n >     < s p a n > < a   h r e f = " j a v a s c r i p t :   T a b / a d m i s s i o n "   o n k e y p r e s s = " "   c l a s s = " a d m i s s i o n "
+         o n c l i c k = " r e t u r n   d o c T a b s 2 9 1 . s h o w ( ' a d m i s s i o n ' ) " >
+ < / a > < / s p a n >     < s p a n > < a   h r e f = " j a v a s c r i p t :   T a b / p u b l i c - o f f e r i n g "   o n k e y p r e s s = " "   c l a s s = " p u b l i c - o f f e r i n g "
+         o n c l i c k = " r e t u r n   d o c T a b s 2 9 1 . s h o w ( ' p u b l i c - o f f e r i n g ' ) " >
+ < / a > < / s p a n >
+ < / d i v >
+ < d i v   c l a s s = " w r a p p e r " >
+     < d i v   c l a s s = " c o n t e n t " >
+         < d l   c l a s s = " u p d a t e "   >
+             < d t   c l a s s = " a t t r A d m i s s i o n   d a t e " > 2 0 2 0
+ 1
+ 2 1
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 2 0 0 1 2 1 0 0 0 4 6 / " >
+ 2
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r E v e n t   d a t e " > 2 0 2 0
+ 1
+ 2 0
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 2 0 0 1 1 6 0 0 0 2 8 / " >
+ 2 / 1 4
+10.0.2.15:11574 -> 133.42.52.24:80 A
+133.42.52.24:80 -> 10.0.2.15:11574 A
+
+ 1 0
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r N o t i c e   d a t e " > 2 0 2 0
+ 1
+ 2 0
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 9 1 1 2 1 0 0 0 6 3 / " >
+ T o n g a l i
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r N o t i c e   d a t e " > 2 0 2 0
+ 1
+ 2 0
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 9 1 1 2 1 0 0 0 1 8 / " >
+ S t a r t u p W e e k e n d
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r E v e n t   d a t e " > 2 0 2 0
+ 1
+ 1 7
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 9 0 1 3 1 0 0 0 1 8 / " >
+ 3 / 6 (
+ )
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r A d m i s s i o n   d a t e " > 2 0 2 0
+ 1
+ 1 7
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 2 0 0 1 1 7 0 0 0 2 5 / " >
+ 2
+ < /
+133.42.52.24:80 -> 10.0.2.15:11574 A
+ a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r A d m i s s i o n   d a t e " > 2 0 2 0
+ 1
+ 1 7
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 2 0 0 1 1 7 0 0 0 1 8 / " >
+ 2
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r E v e n t   d a t e " > 2 0 2 0
+ 1
+ 1 6
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 2 0 0 1 1 6 0 0 0 1 1 / " >
+  
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r N o t i c e   d a t e " > 2 0 2 0
+ 1
+ 1 6
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 2 0 0 1 1 5 0 0 0 4 5 / " >
+ 8 9
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r N o t i c e   d a t e " > 2 0 2 0
+ 1
+ 1 0
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 2 0 0 1 0 9 0 0 0 6 8 / " >
+ O G I S - R I   S o f t w a r e   C h a l l e n g e   A w a r d   2 0 1 9
+   < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >
+         < / d l >
+         < d l   c l a s s = " n o t i c e "   s t y l e = " d i s p l a y :   n o n e ; " >
+             < d t   c l a s s = " a t t r N o t i c e   d a t e " > 2 0 2 0
+ 1
+ 2 0
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 9 1 1 2 1 0 0 0 6 3 / " >
+ T o n g a l i
+
+10.0.2.15:11574 -> 133.42.52.24:80 A
+133.42.52.24:80 -> 10.0.2.15:11574 AP
+
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r N o t i c e   d a t e " > 2 0 2 0
+ 1
+ 2 0
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 9 1 1 2 1 0 0 0 1 8 / " >
+ S t a r t u p W e e k e n d
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r N o t i c e   d a t e " > 2 0 2 0
+ 1
+ 1 6
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 2 0 0 1 1 5 0 0 0 4 5 / " >
+
+133.42.52.24:80 -> 10.0.2.15:11574 A
+ 8 9
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r N o t i c e   d a t e " > 2 0 2 0
+ 1
+ 1 0
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 2 0 0 1 0 9 0 0 0 6 8 / " >
+ O G I S - R I   S o f t w a r e   C h a l l e n g e   A w a r d   2 0 1 9
+   < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r N o t i c e   d a t e " > 2 0 2 0
+ 1
+ 9
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 2 0 0 1 0 9 0 0 0 5 1 / " >
+ O G I S - R I   S o f t w a r e   C h a l l e n g e   A w a r d   2 0 1 9
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r N o t i c e   d a t e " > 2 0 1 9
+ 1 2
+ 2 5
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 9 1 2 2 5 0 0 0 1 3 / " >
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r N o t i c e   d a t e " > 2 0 1 9
+ 1 2
+ 2 0
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 9 0 9 0 4 0 0 0 4 9 / " >
+ 1 / 1 0 (
+ )
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r N o t i c e   d a t e " > 2 0 1 9
+ 1 2
+ 1 6
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 9 1 2 1 6 0 0 0 8 0 / " >
+ 2 1
+
+10.0.2.15:11574 -> 133.42.52.24:80 A
+133.42.52.24:80 -> 10.0.2.15:11574 AP
+
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r N o t i c e   d a t e " > 2 0 1 9
+ 1 2
+ 1 0
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 9 1 2 1 0 0 0 0 5 7 / " >
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r N o t i c e   d a t e " > 2 0 1 9
+ 1 2
+ 6
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 9 1 2 0 5 0 0 1 1 4 / " >
+ I n t e r n a t i o n a l   W o r k s h o p   o n   H o l o g r a p h y   a n d   R e l a t e d   T e c h n o l o g i e s   2 0 1 9
+ I W H 2 0 1 9
+ T H E   B E S T   S T U D E N T   P A P E R   A W A R D
+   < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >
+         < / d l >
+         < d l   c l a s s = " e v e n t "   s t y l e = " d i s p l a y :   n o n e ; " >
+             < d t   c l a s s = " a t t r E v e n t   d a t e " > 2 0 2 0
+ 1
+ 2 0
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 2 0 0 1 1 6 0 0 0 2 8 / " >
+ 2 / 1 4
+ 1 0
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >    
+133.42.52.24:80 -> 10.0.2.15:11574 A
+         < d t   c l a s s = " a t t r E v e n t   d a t e " > 2 0 2 0
+ 1
+ 1 7
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 9 0 1 3 1 0 0 0 1 8 / " >
+ 3 / 6 (
+ )
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r E v e n t   d a t e " > 2 0 2 0
+ 1
+ 1 6
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 2 0 0 1 1 6 0 0 0 1 1 / " >
+  
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r E v e n t   d a t e " > 2 0 2 0
+ 1
+ 9
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 2 0 0 1 0 9 0 0 0 4 4 / " >
+ 2 / 2 6 (
+ )
+ 2 8 (
+ )  
+ U N W T O
+ J I C A
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r E v e n t   d a t e " > 2 0 1 9
+ 1 2
+ 1 9
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 8 0 1 2 3 0 0 0 1 6 / " >
+ 2 / 1 5 (
+ )
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r E v e n t   d a t e " > 2 0 1 9
+ 1 2
+ 1 3
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 9 1 2 1 3 0 0 0 9 6 / " >
+
+10.0.2.15:11574 -> 133.42.52.24:80 A
+133.42.52.24:80 -> 10.0.2.15:11574 AP
+
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r E v e n t   d a t e " > 2 0 1 9
+ 1 2
+ 9
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 9 1 1 2 0 0 0 0 3 5 / " >
+ 1 2 / 1 3
+  
+ 3
+  
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r E v e n t   d a t e " > 2 0 1 9
+ 1 2
+ 3
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 9 1 2 0 3 0 0 0 1 1 / " >
+ 1 2 / 1 4 (
+ )
+ 1 7
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r E v e n t   d a t e " > 2 0 1 9
+ 1 1
+ 2 5
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 9 1 1 2 5 0 0 1 2 2 / " >
+ 1 2 / 9 (
+ )
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r E v e n t   d a t e " > 2 0 1 9
+ 1 1
+ 1 1
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 9 1 1 1 1 0 0 0 5 7 / " >
+
+133.42.52.24:80 -> 10.0.2.15:11574 A
+
+ 1 1 / 3 0 (
+ /
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >
+         < / d l >
+         < d l   c l a s s = " p r e s s "   s t y l e = " d i s p l a y :   n o n e ; " >
+             < d t   c l a s s = " a t t r P r e s s   d a t e " > 2 0 1 9
+ 5
+ 9
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 9 0 5 0 8 0 0 1 0 0 / " >
+ P R E S S
+ 6 / 6 (
+ )
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r P r e s s   d a t e " > 2 0 1 9
+ 5
+ 8
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 9 0 5 0 8 0 0 0 6 3 / " >
+ P R E S S
+ 5 / 1 8 (
+ ) 1 9 (
+ )  
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r P r e s s   d a t e " > 2 0 1 9
+ 4
+ 5
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 9 0 4 0 5 0 0 0 6 5 / " >
+ P R E S S
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r P r e s s   d a t e " > 2 0 1 8
+ 1 2
+ 1 7
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 8 1 2 1 7 0 0 0 3 5 / " >
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > <
+10.0.2.15:11574 -> 133.42.52.24:80 A
+133.42.52.24:80 -> 10.0.2.15:11574 A
+ / d d >             < d t   c l a s s = " a t t r P r e s s   d a t e " > 2 0 1 8
+ 1 1
+ 2 9
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 8 1 1 2 9 0 0 0 9 3 / " >
+  
+ 2
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r P r e s s   d a t e " > 2 0 1 8
+ 1 0
+ 3 1
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 8 1 0 3 0 0 0 0 2 3 / " >
+  
+ 1
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r P r e s s   d a t e " > 2 0 1 8
+ 1 0
+ 2
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 8 1 0 0 2 0 0 0 1 3 / " >
+  
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r P r e s s   d a t e " > 2 0 1 8
+ 8
+ 3 0
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 8 0 8 2 8 0 0 0 3 4 / " >
+  
+ 5
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r P r e s s   d a t e " > 2 0 1 8
+ 7
+ 3 1
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 8 0 7 3 1 0 0 0 3 7 / " >
+
+133.42.52.24:80 -> 10.0.2.15:11574 AP
+
+  
+ 4
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r P r e s s   d a t e " > 2 0 1 8
+ 7
+ 2
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 8 0 6 2 9 0 0 0 4 4 / " >
+  
+ 3
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >
+         < / d l >
+         < d l   c l a s s = " a d m i s s i o n "   s t y l e = " d i s p l a y :   n o n e ; " >
+             < d t   c l a s s = " a t t r A d m i s s i o n   d a t e " > 2 0 2 0
+ 1
+ 2 1
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 2 0 0 1 2 1 0 0 0 4 6 / " >
+ 2
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r A d m i s s i o n   d a t e " > 2 0 2 0
+ 1
+ 1 7
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 2 0 0 1 1 7 0 0 0 2 5 / " >
+ 2
+
+10.0.2.15:11574 -> 133.42.52.24:80 A
+133.42.52.24:80 -> 10.0.2.15:11574 A
+
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r A d m i s s i o n   d a t e " > 2 0 2 0
+ 1
+ 1 7
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 2 0 0 1 1 7 0 0 0 1 8 / " >
+ 2
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r A d m i s s i o n   d a t e " > 2 0 1 9
+ 1 2
+ 2 7
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 9 1 2 2 6 0 0 0 2 7 / " >
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r A d m i s s i o n   d a t e " > 2 0 1 9
+ 1 2
+ 2 7
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 9 1 2 2 0 0 0 0 8 7 / " >
+ 2
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r A d m i s s i o n   d a t e " > 2 0 1 9
+ 1 2
+ 2 7
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 9 1 2 2 0 0 0 0 7 0 / " >
+ 2
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r A d m i s s i o n   d a t e " > 2 0 1 9
+ 1 2
+ 2 0
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 9 1 2 2 0 0 0 0 5 6 / " >
+
+133.42.52.24:80 -> 10.0.2.15:11574 AP
+
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r A d m i s s i o n   d a t e " > 2 0 1 9
+ 1 2
+ 1 3
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 9 1 2 1 3 0 0 1 0 2 / " >
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r A d m i s s i o n   d a t e " > 2 0 1 9
+ 1 2
+ 1 0
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 9 1 2 1 0 0 0 0 9 5 / " >
+ 3
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r A d m i s s i o n   d a t e " > 2 0 1 9
+ 1 2
+ 6
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 9 1 2 0 5 0 0 0 5 3 / " >
+ 3
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >
+         < / d l >
+         < d l   c l a s s = " p u b l i c - o f f e r i n g "   s t y l e = " d i s p l a y :   n o n e ; " >
+             < d t   c l a s s = " a t t r P u b l i c - o f f e r i n g   d a t e " > 2 0 2 0
+ 1
+ 9
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 2 0 0 1 0 9 0 0 0 1 3 / " >
+ 2 / 7 (
+ )
+
+10.0.2.15:11574 -> 133.42.52.24:80 A
+133.42.52.24:80 -> 10.0.2.15:11574 A
+
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r P u b l i c - o f f e r i n g   d a t e " > 2 0 1 9
+ 1 1
+ 2 2
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 9 1 0 3 0 0 0 0 2 0 / " >
+ 1 2 / 2 5
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r P u b l i c - o f f e r i n g   d a t e " > 2 0 1 9
+ 1 1
+ 2 0
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 9 1 1 1 9 0 0 0 4 6 / " >
+ 1 2 / 1 3 (
+ )
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r P u b l i c - o f f e r i n g   d a t e " > 2 0 1 9
+ 1 1
+ 1 8
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 9 1 1 1 5 0 0 0 6 2 / " >
+ 1 / 6 (
+ )
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r P u b l i c - o f f e r i n g   d a t e " > 2 0 1 9
+ 1 0
+ 1 5
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 9 1 0 1 5 0 0 1 0 2 / " >
+ 1 1 / 2 0
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r P u b l i c - o f f e r i n g   d a t e " > 2 0 1 9
+ 9
+ 3 0
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 9 0 9 3 0 0 0 0 4 8 / " >
+ 1 0 / 1 1
+
+133.42.52.24:80 -> 10.0.2.15:11574 A
+
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r P u b l i c - o f f e r i n g   d a t e " > 2 0 1 9
+ 9
+ 2 4
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 9 0 9 2 4 0 0 0 1 6 / " >
+ 1 0 / 1 0 (
+ )
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r P u b l i c - o f f e r i n g   d a t e " > 2 0 1 9
+ 9
+ 1 2
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 9 0 9 1 1 0 0 0 3 0 / " >
+ 9 / 2 7 (
+ )
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r P u b l i c - o f f e r i n g   d a t e " > 2 0 1 9
+ 8
+ 2 7
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 9 0 8 2 7 0 0 0 2 7 / " >
+ 9 / 3 0
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >             < d t   c l a s s = " a t t r P u b l i c - o f f e r i n g   d a t e " > 2 0 1 9
+ 8
+ 2 0
+ < / d t > < d d > < a   h r e f = " / n e w s / 2 0 1 9 0 8 1 9 0 0 0 4 6 / " >
+ 1 0 / 3 1 (
+ )
+ (
+ )
+ < / a > < s p a n   c l a s s = " a t t r i b u t e s " >
+ < s p a n   c l a s s = " u n i t " >
+ < / s p a n >
+ < / s p a n > < / d d >
+         < / d l >
+     < / d i v >
+     < d i v   c l a s s = " l i n k s " >
+         < d i v   c l a s s = " u p d a t e "   >
+         < / d i v >         < d i v   c l a s s = " n o t i c e "   s t y l e = " d i s p l a y :   n o n e ; " >
+         < / d i v >         < d i v   c l a s s = " e v e n t "   s t y l e = " d i s p l a y :   n o n e ; " >
+         < / d
+10.0.2.15:11574 -> 133.42.52.24:80 A
+133.42.52.24:80 -> 10.0.2.15:11574 A
+ i v >         < d i v   c l a s s = " p r e s s "   s t y l e = " d i s p l a y :   n o n e ; " >
+         < / d i v >         < d i v   c l a s s = " a d m i s s i o n "   s t y l e = " d i s p l a y :   n o n e ; " >
+         < / d i v >         < d i v   c l a s s = " p u b l i c - o f f e r i n g "   s t y l e = " d i s p l a y :   n o n e ; " >
+         < / d i v >
+     < / d i v >
+ < ! - -   e n d   . w r a p p e r   - - > < / d i v >
+ < / d i v >
+ < / d i v >
+ < ! - -   e n d   . p i e c e   - - > < / d i v >
+ < / d i v > < ! - -   /   t a b L i s t   - - >
+ < / s e c t i o n >
+ < / d i v > < ! - -   /   m a i n   - - >
+ < d i v   i d = " s i d e "   c l a s s = " l e f t C o l u m n " >
+ < d i v   c l a s s = " s i d e T e x t B a n n e r " >
+ < u l >
+ < l i >
+ < a   h r e f = " / a b o u t / p r e s i d e n t / " >
+ < d i v   c l a s s = " b l o c k " >
+ < d i v   c l a s s = " b a n n e r T i t l e " > < s p a n >
+ < / s p a n > < / d i v >
+ < d i v   c l a s s = " t h u m b " > < i m g   s r c = " / _ f i l e s / 0 0 0 2 4 8 4 6 / i m g _ i n d e x _ p r e s i d e n t 0 1 . j p g "   a l t = "
+ "   t i t l e = "
+ "   / > < / d i v >
+ < / d i v > < ! - -   /   b l o c k   - - >
+ < / a >
+ < / l i >
+ < l i >
+ < a   h r e f = " / a b o u t / p u b l i c _ i n f o r m a t i o n _ g a l l e r y / e d u c a t i o n - i n f o r m a t i o n / " >
+ < d i v   c l a s s = " b l o c k " >
+ < d i v   c l a s s = " b a n n e r T i t l e " > < s p a n >
+ < / s p a n > < / d i v >
+ < d i v   c l a s s = " t h u m b " > < i m g   s r c = " / _ f i l e s / 0 0 0 2 4 8 6 0 / i m g _ i n d e x _ e d u c a t i o n _ i n f o r m a t i o n 0 1 . j p g "   a l t = "
+ "   t i t l e = "
+ "   / > < / d i v >
+ < / d i v > < ! - -   /   b l o c k   - - >
+ < / a >
+ < / l i >
+ < l i >
+ < a   h r e f = " h t t p : / / w a k a r i d . c e n t e r . w a k a y a m a - u . a c . j p / " >
+ < d i v   c l a s s = " b l o c k " >
+ < d i v   c l a s s = " b a n n e r T i t l e " > < s p a n >
+ < / s p a n > < / d i v >
+ < d i v   c l a s s = " t h u m b " > < i m g   s r c = " / _ f i l e s / 0 0 0 3 0 2 0 5 / i m g _ i n d e x _ r e s e a r c h e r 0 1 . j p g "   a l t = "
+ "   t i t l e = "
+ "   / > < / d i v >
+ < / d i v > < ! - -   /   b l o c k   - - >
+ < / a >
+ < / l i >
+ < l i >
+ < a   h r e f = " h t t p s : / / w w w . w a k a
+133.42.52.24:80 -> 10.0.2.15:11574 A
+ y a m a - u . a c . j p / m e n k y o / "   t a r g e t = " _ b l a n k " >
+ < d i v   c l a s s = " b l o c k " >
+ < d i v   c l a s s = " b a n n e r T i t l e " > < s p a n >
+ < / s p a n > < / d i v >
+ < d i v   c l a s s = " t h u m b " > < i m g   s r c = " / _ f i l e s / 0 0 0 2 4 8 5 3 / i m g _ i n d e x _ l i c e n s e 0 1 . j p g "   a l t = "
+ "   t i t l e = "
+ "   / > < / d i v >
+ < / d i v > < ! - -   /   b l o c k   - - >
+ < / a >
+ < / l i >
+ < / u l >
+ < / d i v > < ! - -   /   s i d e T e x t B a n n e r   - - >
+ < d i v   c l a s s = " s i d e L i n k s " >
+ < d i v   i d = " i n d e x S i d e L i n k s A d m i s s i o n "   c l a s s = " p i e c e " >
+ < d i v   c l a s s = " p i e c e C o n t a i n e r " >
+ < d i v   c l a s s = " p i e c e H e a d e r " > < h 2 >
+ < / h 2 > < / d i v >
+ < d i v   c l a s s = " p i e c e B o d y " > < u l >
+     < l i > < a   h r e f = " / a d m i s s i o n / e n t r a n c e / s c h e d u l e / " >
+ < / a > < / l i >
+     < l i > < a   h r e f = " / a d m i s s i o n / e n t r a n c e / " >
+ < / a > < / l i >
+     < l i > < a   h r e f = " / a d m i s s i o n / d e m a n d / " >
+ < / a > < / l i >
+ < / u l >
+ < / d i v >
+ < / d i v >
+ < ! - -   e n d   . p i e c e   - - > < / d i v >
+ < / d i v > < ! - -   /   s i d e L i n k s   - - >
+ < d i v   c l a s s = " s i d e E v e n t C a l e n d a r " >
+ < d i v   i d = " i n d e x S i d e E v e n t C a l e n d a r "   c l a s s = " p i e c e " >
+ < d i v   c l a s s = " p i e c e C o n t a i n e r " >
+ < d i v   c l a s s = " p i e c e H e a d e r " > < h 2 >
+ < / h 2 > < / d i v >
+ < d i v   c l a s s = " p i e c e B o d y " > < d i v   c l a s s = " m o n t h   j a n u a r y " > 1
+ < / d i v >
+ < d i v   c l a s s = " c a l e n d a r " >
+ < d i v   c l a s s = " w d a y s " >
+ < s p a n   c l a s s = " w d a y   s u n " >
+ < / s p a n >
+ < s p a n   c l a s s = " w d a y   m o n " >
+ < / s p a n >
+ < s p a n   c l a s s = " w d a y   t u e " >
+ < / s p a n >
+ < s p a n   c l a s s = " w d a y   w e d " >
+ < / s p a n >
+ < s p a n   c l a s s = " w d a y   t h u " >
+ < / s p a n >
+ < s p a n   c l a s s = " w d a y   f r i " >
+ < / s p a n >
+ < s p a n   c l a s s = " w d a y   s a t " >
+ <
+10.0.2.15:11574 -> 133.42.52.24:80 A
+133.42.52.24:80 -> 10.0.2.15:11574 A
+ / s p a n >
+ < / d i v >
+ < d i v   c l a s s = " d a y s " >
+ < d i v   c l a s s = " w e e k " >
+ < s p a n   c l a s s = " p r e v M o n t h   d a y   s u n " > 2 9 < / s p a n >
+ < s p a n   c l a s s = " p r e v M o n t h   d a y   m o n " > 3 0 < / s p a n >
+ < s p a n   c l a s s = " p r e v M o n t h   d a y   t u e " > 3 1 < / s p a n >
+ < a   c l a s s = " d a y   w e d   h o l i d a y "   h r e f = " / e v e n t / 2 0 2 0 / 0 1 / # d a y 0 1 " > 1 < / a >
+ < a   c l a s s = " d a y   t h u "   h r e f = " / e v e n t / 2 0 2 0 / 0 1 / # d a y 0 2 " > 2 < / a >
+ < a   c l a s s = " d a y   f r i "   h r e f = " / e v e n t / 2 0 2 0 / 0 1 / # d a y 0 3 " > 3 < / a >
+ < a   c l a s s = " d a y   s a t "   h r e f = " / e v e n t / 2 0 2 0 / 0 1 / # d a y 0 4 " > 4 < / a >
+ < / d i v >
+ < d i v   c l a s s = " w e e k " >
+ < a   c l a s s = " d a y   s u n "   h r e f = " / e v e n t / 2 0 2 0 / 0 1 / # d a y 0 5 " > 5 < / a >
+ < a   c l a s s = " d a y   m o n "   h r e f = " / e v e n t / 2 0 2 0 / 0 1 / # d a y 0 6 " > 6 < / a >
+ < a   c l a s s = " d a y   t u e "   h r e f = " / e v e n t / 2 0 2 0 / 0 1 / # d a y 0 7 " > 7 < / a >
+ < a   c l a s s = " d a y   w e d "   h r e f = " / e v e n t / 2 0 2 0 / 0 1 / # d a y 0 8 " > 8 < / a >
+ < a   c l a s s = " d a y   t h u "   h r e f = " / e v e n t / 2 0 2 0 / 0 1 / # d a y 0 9 " > 9 < / a >
+ < a   c l a s s = " d a y   f r i "   h r e f = " / e v e n t / 2 0 2 0 / 0 1 / # d a y 1 0 " > 1 0 < / a >
+ < a   c l a s s = " d a y   s a t "   h r e f = " / e v e n t / 2 0 2 0 / 0 1 / # d a y 1 1 " > 1 1 < / a >
+ < / d i v >
+ < d i v   c l a s s = " w e e k " >
+ < a   c l a s s = " d a y   s u n "   h r e f = " / e v e n t / 2 0 2 0 / 0 1 / # d a y 1 2 " > 1 2 < / a >
+ < a   c l a s s = " d a y   m o n   h o l i d a y "   h r e f = " / e v e n t / 2 0 2 0 / 0 1 / # d a y 1 3 " > 1 3 < / a >
+ < a   c l a s s = " d a y   t u e "   h r e f = " / e v e n t / 2 0 2 0 / 0 1 / # d a y 1 4 " > 1 4 < / a >
+ < a   c l a s s = " d a y   w e d "   h r e f = " / e v e n t / 2 0 2 0 / 0 1 / # d a y 1 5 " > 1 5 < / a >
+ < a   c l a s s = " d a y   t h u "   h r e f = " / e v e n t / 2 0 2 0 / 0 1 / # d a y 1 6 " > 1 6 < / a >
+ < s p a n   c l a s s = " d a y   f r i " > 1 7 < / s p a n >
+ < a   c l a s s = " d a y   s a t "   h r e f = " / e v e n t / 2 0 2 0 / 0 1 / # d a y 1 8 " > 1 8 < / a >
+ < / d i v >
+ < d i v   c l a s s = " w e e k " >
+ < a   c l a s s = " d a y   s u n "   h r e f = " / e v e n t / 2 0 2 0 / 0 1 / # d a y 1 9 " > 1 9 < / a >
+ < s p a n   c l a s s = " d a y   m o n " > 2 0 < / s p a n >
+ < s p a n   c l a s s = " d a y   t u e " > 2 1 < / s p a n >
+ < s p a n   c l a s s = " d a y   w e d " > 2 2 < / s p a n >
+ < s p a n   c l a s s = " d a y   t h u " > 2 3 < / s p a n >
+ < s p a n   c
+133.42.52.24:80 -> 10.0.2.15:11574 AP
+ l a s s = " d a y   f r i " > 2 4 < / s p a n >
+ < s p a n   c l a s s = " d a y   s a t " > 2 5 < / s p a n >
+ < / d i v >
+ < d i v   c l a s s = " w e e k " >
+ < s p a n   c l a s s = " d a y   s u n " > 2 6 < / s p a n >
+ < s p a n   c l a s s = " d a y   m o n " > 2 7 < / s p a n >
+ < s p a n   c l a s s = " d a y   t u e " > 2 8 < / s p a n >
+ < s p a n   c l a s s = " d a y   w e d " > 2 9 < / s p a n >
+ < s p a n   c l a s s = " d a y   t h u " > 3 0 < / s p a n >
+ < s p a n   c l a s s = " d a y   f r i " > 3 1 < / s p a n >
+ < s p a n   c l a s s = " n e x t M o n t h   d a y   s a t " > 1 < / s p a n >
+ < / d i v >
+ < / d i v >
+ < ! - -   e n d   . c a l e n d a r   - - > < / d i v >
+ < d i v   c l a s s = " l i n k s " >
+     < a   c l a s s = " p r e v M o n t h "   h r e f = " / e v e n t / 2 0 1 9 / 1 2 / " >
+ < / a >
+     < s p a n   c l a s s = " s e p a r a t o r L e f t " > | < / s p a n >
+     < a   c l a s s = " c u r r e n t M o n t h "   h r e f = " / e v e n t / 2 0 2 0 / 0 1 / " >
+ < / a >
+     < s p a n   c l a s s = " s e p a r a t o r R i g h t " > | < / s p a n >
+     < a   c l a s s = " n e x t M o n t h "   h r e f = " / e v e n t / 2 0 2 0 / 0 2 / " >
+ < / a >
+ < / d i v >
+ < / d i v >
+ < / d i v >
+ < ! - -   e n d   . p i e c e   - - > < / d i v >
+
+10.0.2.15:11574 -> 133.42.52.24:80 A
+133.42.52.24:80 -> 10.0.2.15:11574 A
+
+ < / d i v > < ! - -   /   s i d e E v e n t C a l e n d a r   - - >
+ < d i v   c l a s s = " s i d e C a m p u s L i n k s " >
+ < d i v   i d = " i n d e x S i d e L i n k s C a m p u s "   c l a s s = " p i e c e " >
+ < d i v   c l a s s = " p i e c e C o n t a i n e r " >
+ < d i v   c l a s s = " p i e c e H e a d e r " > < h 2 >
+ < / h 2 > < / d i v >
+ < d i v   c l a s s = " p i e c e B o d y " > < u l >
+     < l i > < a   t a r g e t = " _ b l a n k "   h r e f = " h t t p s : / / w l c a m p u s . c e n t e r . w a k a y a m a - u . a c . j p / " >
+ L i v e   C a m p u s
+ < / a > < / l i >
+ < / u l >
+ < / d i v >
+ < / d i v >
+ < ! - -   e n d   . p i e c e   - - > < / d i v >
+ < / d i v > < ! - -   /   s i d e C a m p u s L i n k s   - - >
+ < / d i v > < ! - -   /   s i d e   - - >
+ < d i v   c l a s s = " r i g h t C o l u m n " >
+ < d i v   c l a s s = " s i d e N a v i   i n d e x S i d e N a v i " >
+ < d i v   c l a s s = " p i e c e " >
+ < d i v   c l a s s = " p i e c e C o n t a i n e r " >
+ < d i v   c l a s s = " p i e c e H e a d e r " >
+ < h 2 >
+ < / h 2 >
+ < / d i v > < ! - -   /   p i e c e H e a d e r   - - >
+ < d i v   c l a s s = " p i e c e B o d y " >
+ < u l >
+ < l i > < a   h r e f = " / a b o u t / p u b l i c _ i n f o r m a t i o n _ g a l l e r y / " >
+ < / a > < / l i >
+ < l i   c l a s s = " t o g g l e " >
+ < h 3   c l a s s = " t o g g l e B t n " > < s p a n >
+ P R i s m < / s p a n > < / h 3 >
+ < u l   c l a s s = " t o g g l e C o n t e n t " >
+ < l i > < a   h r e f = " h t t p : / / w w w . w a k a y a m a - u . a c . j p / w a d a i _ s c o p e / "   t a r g e t = " _ b l a n k " > < s p a n   c l a s s = " e x t e r n a l L i n k " >
+ W a d a i   S c o p e
+ < / s p a n > < / a > < / l i >
+ < l i > < a   h r e f = " h t t p s : / / w w w . y o u t u b e . c o m / u s e r / w a k a y a m a u n i v "   t a r g e t = " _ b l a n k " > < s p a n   c l a s s = " e x t e r n a l L i n k " >
+ Y o u T u b e
+ < / s p a n > < / a > < / l i >
+ < l i > < a   h r e f = " h t t p : / / w e b . w a k a y a m a - u . a c . j p / w a d a i - r a d i o / "   t a r g e t = " _ b l a n k " > < s p a n   c l a s s = " e x t e r n a l L i n k " >
+
+133.42.52.24:80 -> 10.0.2.15:11574 A
+
+ < / s p a n > < / a > < / l i >
+ < l i > < a   h r e f = " h t t p : / / w w w . w a k a y a m a - u . a c . j p / b l o g / w a d a i _ s c o p e / k o h o / "   t a r g e t = " _ b l a n k " > < s p a n   c l a s s = " e x t e r n a l L i n k " >
+ B l o g < / s p a n > < / a > < / l i >
+ < l i > < a   h r e f = " h t t p : / / w e b . w a k a y a m a - u . a c . j p / w e b a p p / "   t a r g e t = " _ b l a n k " > < s p a n   c l a s s = " e x t e r n a l L i n k " >
+ < / s p a n > < / a > < / l i >
+ < / u l >
+ < / l i >
+ < / u l >
+ < / d i v > < ! - -   /   p i e c e B o d y   - - >
+ < / d i v > < ! - -   /   p i e c e C o n t a i n e r   - - >
+ < / d i v > < ! - -   /   p i e c e   - - >
+ < / d i v > < ! - -   /   s i d e N a v i   - - >
+ < d i v   c l a s s = " b n r I n d e x D e m a n d " >
+ < a   h r e f = " / a b o u t / p u b l i c _ i n f o r m a t i o n _ g a l l e r y / d e m a n d . h t m l " >
+ < p   c l a s s = " a l " > < s p a n >
+ < / s p a n > < / p >
+ < p > < i m g   s r c = " h t t p s : / / w e b . w a k a y a m a - u . a c . j p / d e m a n d / g r a p h _ m i n i . p h p "   a l t = "
+ "   w i d t h = " 2 0 0 " > < / p >
+ < / a >
+ < / d i v > < ! - -   b n r I n d e x D e m a n d   - - >
+ < d i v   c l a s s = " s i d e B a n n e r " >
+ < u l >
+ < l i > < a   h r e f = " h t t p s : / / w w w . w a k a y a m a - u . a c . j p / r e g i o n / "   t a r g e t = " _ b l a n k " > < i m g   s r c = " / _ f i l e s / 0 0 1 7 6 5 3 8 / b n r _ r e g i o n . j p g "   a l t = "
+ "   t i t l e = "
+ "   / > < / a > < / l i >
+ < l i > < a   h r e f = " h t t p s : / / w w w . w a k a y a m a - u . a c . j p / f u n d / i n d e x . h t m l "   t a r g e t = " _ b l a n k " > < i m g   s r c = " / _ f i l e s / 0 0 0 5 3 8 4 6 / w a d a i k i k i n . p n g "   a l t = " w a d a i k i k i n . p n g "   t i t l e = " w a d a i k i k i n . p n g "   / > < / a > < / l i >
+ < l i > < a   h r e f = " h t t p s : / / w w w . w a k a y a m a - u . a c . j p / l i b / a b o u t / f u r u h o n b o k i n . h t m l "   t a r g e t = " _ b l a n k " > < i m g   s r c = " / _ f i l e s / 0 0 1 3 6 1 0 5 / h u r u h o n . j p g "   a l t = "
+ a . j p g "   t i t l e = "
+ a . j p g "   / > < / a > < / l i >
+
+10.0.2.15:11574 -> 133.42.52.24:80 A
+133.42.52.24:80 -> 10.0.2.15:11574 A
+ < l i > < a   h r e f = " h t t p : / / k i n o k u n i - u . j p / "   t a r g e t = " _ b l a n k " > < i m g   s r c = " / _ f i l e s / 0 0 0 5 6 7 6 2 / k i n o k u n i u n i v . j p g "   a l t = "
+ . j p g "   t i t l e = "
+ . j p g "   / > < / a > < / l i >
+ < l i > < a   h r e f = " h t t p : / / w w w . w a k a y a m a - u . a c . j p / w a d a i _ s c o p e / "   t a r g e t = " _ b l a n k " > < i m g   s r c = " / _ f i l e s / 0 0 1 6 4 3 8 2 / w a d a i s c o p e 2 . j p g "   a l t = "
+ ( W a d a i s c o p e ) . j p g "   t i t l e = "
+ ( W a d a i s c o p e ) . j p g "   / > < / a > < / l i >
+ < l i > < a   h r e f = " h t t p s : / / w w w . w a k a y a m a - u . a c . j p / n e w s / 2 0 1 9 0 1 0 8 0 0 0 1 0 / "   t a r g e t = " _ b l a n k " > < i m g   s r c = " / _ f i l e s / 0 0 1 7 0 7 5 8 / s i d e k o u k o k u . j p g "   a l t = "
+ . j p g "   t i t l e = "
+ . j p g "   / > < / a > < / l i >
+ < / u l >
+ < / d i v > < ! - -   /   s i d e B a n n e r   - - >
+ < / d i v > < ! - -   /   r i g h t C o l u m n   - - >
+ < / d i v > < ! - -   /   i n n e r   - - >
+ < / d i v > < ! - -   /   c o n t e n t s   - - >
+ < d i v   i d = " p a g e T o p " >
+ < p > < a   h r e f = " # p a g e " > < i m g   s r c = " / _ c o m m o n / t h e m e s / w a k a y a m a - u / t m p l - i m g / b t n _ p a g e t o p 0 1 . p n g "   a l t = "
+ " > < / a > < / p >
+ < / d i v > < ! - -   /   p a g e T o p   - - >
+ < f o o t e r   i d = " g l o b a l F o o t e r " >
+ < d i v   c l a s s = " f o o t e r N a v i " >
+ < d i v   c l a s s = " i n n e r " >
+ < n a v   r o l e = " n a v i g a t i o n " >
+ < u l   c l a s s = " c f " >
+ < l i   c l a s s = " f N a v i 0 1 " > < a   h r e f = " / a b o u t / " > < s p a n >
+ < / s p a n > < / a > < / l i >
+ < l i   c l a s s = " f N a v i 0 2 " > < a   h r e f = " / a c a d e m i c s / " > < s p a n >
+ < / s p a n > < / a > < / l i >
+ < l i   c l a s s = " f N a v i 0 4 " > < a   h r e f = " / i n s t i t u t e s / i n d e x . h t m l " > < s p a n >
+ < / s p a n > < / a > < / l i >
+ < l i   c l a s s = " f N a v i 0 3 " > < a   h r e f = " / c a m p u s l i f e / i n d e x . h t m l " > < s p a n >
+ < / s
+133.42.52.24:80 -> 10.0.2.15:11574 AP
+ p a n > < / a > < / l i >
+ < l i   c l a s s = " f N a v i 0 5 " > < a   h r e f = " / c a r e e r / i n d e x . h t m l "   t a r g e t = " _ b l a n k " > < s p a n >
+ < / s p a n > < / a > < / l i >
+ < l i   c l a s s = " f N a v i 0 6 " > < a   h r e f = " / a d m i s s i o n / "   t a r g e t = " _ b l a n k " > < s p a n >
+ < / s p a n > < / a > < / l i >
+ < / u l >
+ < u l   c l a s s = " c f " >
+ < l i > < a   h r e f = " / r e c r u i t / " > < s p a n >
+ < / s p a n > < / a > < / l i >
+ < l i > < a   h r e f = " / s i t e p o l i c y / p r i v a c y p o l i c y . h t m l " > < s p a n >
+ < / s p a n > < / a > < / l i >
+ < l i > < a   h r e f = " / s i t e p o l i c y / " > < s p a n >
+ < / s p a n > < / a > < / l i >
+ < l i > < a   h r e f = " / l i n k . h t m l " > < s p a n >
+ < / s p a n > < / a > < / l i >
+ < l i > < a   h r e f = " / c o n t a c t / " > < s p a n >
+ < / s p a n > < / a > < / l i >
+ < / u l >
+ < / n a v >
+ < / d i v > < ! - -   /   i n n e r   - - >
+ < / d i v > < ! - -   /   f o o t e r N a v i   - - >
+ < d i v   c l a s s = " s u b F o o t e r   c f " >
+ < d i v   c l a s s = " i n n e r " >
+ < d i v   c l a s s = " f o o t e r S N S N a v i " >
+ < u l >
+ < l i > < a   h r e f = " h t t p s : / / w w w . f a c e b o o k . c o m / w a k a y a m a u n i v "   t a r g e t = " _ b l a n k " > < i m g   s r
+10.0.2.15:11574 -> 133.42.52.24:80 A
+133.42.52.24:80 -> 10.0.2.15:11574 A
+ c = " / _ c o m m o n / t h e m e s / w a k a y a m a - u / t m p l - i m g / i c o _ f o o t e r _ s n s 0 1 . p n g "   a l t = " " > < / a > < / l i > < ! - -
+ - - > < l i > < a   h r e f = " h t t p s : / / t w i t t e r . c o m / w a k a y a m a _ u n i v "   t a r g e t = " _ b l a n k " > < i m g   s r c = " / _ c o m m o n / t h e m e s / w a k a y a m a - u / t m p l - i m g / i c o _ f o o t e r _ s n s 0 2 . p n g "   a l t = " " > < / a > < / l i > < ! - -
+ - - > < l i > < a   h r e f = " h t t p : / / w w w . y o u t u b e . c o m / u s e r / w a k a y a m a u n i v "   t a r g e t = " _ b l a n k " > < i m g   s r c = " / _ c o m m o n / t h e m e s / w a k a y a m a - u / t m p l - i m g / i c o _ f o o t e r _ s n s 0 3 . p n g "   a l t = " " > < / a > < / l i >
+ < / u l >
+ < / d i v > < ! - -   /   f o o t e r N a v i   - - >
+ < d i v   c l a s s = " f o o t e r A d d r e s s " >
+ < d l >
+ < d t > < i m g   s r c = " / _ c o m m o n / t h e m e s / w a k a y a m a - u / t m p l - i m g / l o g o _ f o o t e r . p n g "   a l t = "
+  
+ "   / > < / d t >
+ < d d >
+ < a d d r e s s >
+  
+ < b r >
+ 6 4 0 - 8 5 1 0
+ 9 3 0 < b r >
+ T e l :   0 7 3 - 4 5 7 - 7 0 0 7 < / a d d r e s s >
+ < / d d >
+ < d d > < / d d >
+ < / d l >
+ < / d i v > < ! - -   /   f o o t e r A d d r e s s   - - >
+ < d i v   i d = " c o p y r i g h t " >
+ < p > < s m a l l > C o p y r i g h t   ( c ) 2 0 1 0 - 2 0 1 5   W a k a y a m a   U n i v e r s i t y < / s m a l l > < / p >
+ < / d i v > < ! - -   /   c o p y r i g h t   - - >
+ < / d i v > < ! - -   /   i n n e r   - - >
+ < / d i v > < ! - -   /   s u b F o o t e r   - - >
+ < / f o o t e r > < ! - -   /   g l o b a l F o o t e r   - - >
+ < / d i v > < ! - -   /   p a g e   - - >
+ < s c r i p t   t y p e = " t e x t / j a v a s c r i p t " >  
+ v a r   g a J s H o s t   =   ( ( " h t t p s : "   = =   d o c u m e n t . l o c a t i o n . p r o t o c o l )   ?   " h t t p s : / / s s l . "   :   " h t t p : / / w w w . " ) ;
+ d o c u m e n t . w r i t e ( u n e s c a p e ( " % 3 C s c r i p t   s r c = ' "   +   g a J s H o s t   +   " g o o g l e - a n a l y t i c s . c o m / g a . j s '   t y p e = ' t e x t / j a v a s c r i p t ' % 3 E % 3 C / s c r i p t % 3 E " ) ) ;
+ < / s c r i p t >
+ < s c r i p t   t y p e = " t e x t /
+133.42.52.24:80 -> 10.0.2.15:11574 AP
+ j a v a s c r i p t " >  
+ v a r   p a g e T r a c k e r   =   _ g a t . _ g e t T r a c k e r ( " U A - 3 0 9 9 7 5 6 - 2 " ) ;
+ p a g e T r a c k e r . _ i n i t D a t a ( ) ;
+ p a g e T r a c k e r . _ t r a c k P a g e v i e w ( ) ;
+ < / s c r i p t >
+ < ! - -
+ j Q u e r y
+   - - >
+ < s c r i p t   t y p e = " t e x t / j a v a s c r i p t "   s r c = " / _ c o m m o n / t h e m e s / w a k a y a m a - u / j s / j q u e r y . j s "   > < / s c r i p t >
+ < ! - -
+   - - >
+ < s c r i p t   t y p e = " t e x t / j a v a s c r i p t "   s r c = " / _ c o m m o n / t h e m e s / w a k a y a m a - u / j s / j q u e r y . t e x t r e s i z e r . m i n . j s "   > < / s c r i p t >
+ < ! - -
+ c o o k i e
+   - - >
+ < s c r i p t   t y p e = " t e x t / j a v a s c r i p t "   s r c = " / _ c o m m o n / t h e m e s / w a k a y a m a - u / j s / j q u e r y . c o o k i e . j s "   > < / s c r i p t >
+ < ! - -
+   - - >
+ < s c r i p t   t y p e = " t e x t / j a v a s c r i p t "   s r c = " / _ c o m m o n / t h e m e s / w a k a y a m a - u / j s / j q u e r y . m a t c h H e i g h t - m i n . j s "   > < / s c r i p t >
+ < ! - -
+   - - >
+ < s c r i p t   t y p e = " t e x t / j a v a s c r i p t "   s r c = " / _ c o m m o n / t h e m e s / w a k a y a m a - u / j s / b a s e . j s "   > < / s c r i p t >
+ < ! - -
+ j Q u e r y
+   - - >
+ < s c r i p t   t y p e = " t e x t / j a v a s c r i p t "   s r c = " / _ c o m m o n / t h e m e s / w a k a y a m a - u / j s / f u n c t i o n . j s "   > < / s c r i p t >
+ < s c r i p t   t y p e = " t e x t / j a v a s c r i p t "   s r c = " / _ c o m m o n / t h e m e s / t e m p l a t e / j s / b x s l i d e r / j q u e r y . b x s l i d e r . m i n . j s "   > < / s c r i p t >
+ < s c r i p t   t y p e = " t e x t / j a v a s c r i p t " >
+ $ ( f u n c t i o n ( ) {
+ $ ( " # i n d e x S l i d e r " ) . b x S l i d e r ( {
+ a u t o :   t r u e ,
+ p a u s e :   6 0 0 0 ,
+ } ) ;
+ } ) ;
+ < / s c r i p t >
+ < / b o d y >
+ < / h t m l >
+
+10.0.2.15:11574 -> 133.42.52.24:80 A
+133.42.52.24:80 -> 10.0.2.15:11574 AF
+10.0.2.15:11574 -> 133.42.52.24:80 A
+10.0.2.15:11574 -> 133.42.52.24:80 AF
+133.42.52.24:80 -> 10.0.2.15:11574 A

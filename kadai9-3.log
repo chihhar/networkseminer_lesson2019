@@ -1,0 +1,31 @@
+10.0.2.15:21937 -> 202.11.16.176:43 S
+202.11.16.176:43 -> 10.0.2.15:21937 AS
+10.0.2.15:21937 -> 202.11.16.176:43 A
+10.0.2.15:21937 -> 202.11.16.176:43 AP
+ w a k a y a m a - u . a c . j p / e
+
+202.11.16.176:43 -> 10.0.2.15:21937 A
+202.11.16.176:43 -> 10.0.2.15:21937 AP
+ [   J P R S   d a t a b a s e   p r o v i d e s   i n f o r m a t i o n   o n   n e t w o r k   a d m i n i s t r a t i o n .   I t s   u s e   i s         ]
+ [   r e s t r i c t e d   t o   n e t w o r k   a d m i n i s t r a t i o n   p u r p o s e s .   F o r   f u r t h e r   i n f o r m a t i o n ,           ]
+ [   u s e   ' w h o i s   - h   w h o i s . j p r s . j p   h e l p ' .   T o   s u p p r e s s   J a p a n e s e   o u t p u t ,   a d d ' / e '           ]
+ [   a t   t h e   e n d   o f   c o m m a n d ,   e . g .   ' w h o i s   - h   w h o i s . j p r s . j p   x x x / e ' .                                   ]
+ D o m a i n   I n f o r m a t i o n :
+ a .   [ D o m a i n   N a m e ]                                 W A K A Y A M A - U . A C . J P
+ g .   [ O r g a n i z a t i o n ]                               W a k a y a m a   U n i v e r s i t y
+ l .   [ O r g a n i z a t i o n   T y p e ]                     U n i v e r s i t y
+ m .   [ A d m i n i s t r a t i v e   C o n t a c t ]           F U 8 4 8 J P
+ n .   [ T e c h n i c a l   C o n t a c t ]                     F H 2 3 4 3 J P
+ n .   [ T e c h n i c a l   C o n t a c t ]                     Y K 6 1 0 9 J P
+ p .   [ N a m e   S e r v e r ]                                 n s . w a k a y a m a - u . a c . j p
+ p .   [ N a m e   S e r v e r ]                                 r y u j i n . c e n t e r . w a k a y a m a - u . a c . j p
+ s .   [ S i g n i n g   K e y ]                                
+ [ S t a t e ]                                                   C o n n e c t e d   ( 2 0 2 0 / 0 3 / 3 1 )
+ [ R e g i s t e r e d   D a t e ]                                
+ [ C o n n e c t e d   D a t e ]                                 2 0 0 9 / 0 6 / 1 2
+ [ L a s t   U p d a t e ]                                       2 0 1 9 / 0 4 / 0 1   0 1 : 0 6 : 0 6   ( J S T )
+
+202.11.16.176:43 -> 10.0.2.15:21937 AF
+10.0.2.15:21937 -> 202.11.16.176:43 A
+10.0.2.15:21937 -> 202.11.16.176:43 AF
+202.11.16.176:43 -> 10.0.2.15:21937 A
